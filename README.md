@@ -43,6 +43,6 @@ class BackendDeveloper:
 <a href= "http:instagram.com/baran_k6963" target= "_blank" rel="noreferrer"><img src="icons8-instagram-48.png" width="32" heigh="32"></a>
 <a href= "https://t.me/BK369777" target= "_blank" rel="noreferrer"><img src="icons8-telegram-48.png" width="32" heigh="32" background="blue"></a>
 <a href= "barankamvar163@gmail.com" target= "_blank" rel="noreferrer"><img src="icons8-gmail-48.png" width="32" heigh="32"></a>
-<a href= "https://github.com/Baran-Kamvar" target= "_blank" rel="noreferrer"><img src="icons8-github-64.png" width="32" heigh="32"></a>
+<a href= "https://github.com/Baran-Kamvar" target= "_blank" rel="noreferrer"><img src="icons8-github-48.png" width="32" heigh="32"></a>
     
 </p>
