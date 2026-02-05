@@ -39,3 +39,10 @@ class BackendDeveloper:
 ------
 
 <h3>Contact Me 📞</h3>
+<p align= "left">
+<a href= "http:instagram.com/baran_k6963" target= "_blank" rel="noreferrer"><img src="" width="32" heigh="32"></a>
+<a href= "https://t.me/BK369777" target= "_blank" rel="noreferrer"><img src="" width="32" heigh="32"></a>
+<a href= "barankamvar163@gmail.com" target= "_blank" rel="noreferrer"><img src="" width="32" heigh="32"></a>
+<a href= "https://github.com/Baran-Kamvar" target= "_blank" rel="noreferrer"><img src="" width="32" heigh="32"></a>
+    
+</p>
